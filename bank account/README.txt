@@ -1,0 +1,1 @@
+This is a project that simulates a bank account using raw values inserted direct on the code. Here we are using oop programming using classes, interfaces and core concepts of opp programming using java.
