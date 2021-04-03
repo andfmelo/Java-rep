@@ -1,7 +1,7 @@
 /**
 * Program Name: BankAccount.java
 * Purpose: this program will implement a simulation of a bank account, using oop structure.
-* Coder: Andre Florentino Melo, Student ID 0922836
+* Coder: Andre Florentino Melo
 * Date: Feb. 10, 2020
 */
 
