@@ -1,7 +1,7 @@
 /**
 * Program Name:  PersonalChequingAccount.java
 * Purpose: Simulate a personal chequing account.
-* Coder: Andre Florentino Melo, Student ID 0922836
+* Coder: Andre Florentino Melo
 * Date: Feb. 10, 2020
 */
 
