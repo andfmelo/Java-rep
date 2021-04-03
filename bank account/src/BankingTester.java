@@ -2,7 +2,7 @@
 * Program Name: BankingTester.java
 * Purpose: The purpose of this program is to test our bank account program, using it's deposits and withdrawals options, as well as record
 * 		   and print these transactions on the screen.
-* Coder: Andre Florentino Melo, Student ID 0922836
+* Coder: Andre Florentino Melo
 * Date: Feb. 12, 2020
 */
 
