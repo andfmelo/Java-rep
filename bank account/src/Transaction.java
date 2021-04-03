@@ -1,7 +1,7 @@
 /**
 * Program Name: Transaction.java
 * Purpose: To generate a transaction report to be recorded.
-* Coder: Andre Florentino Melo, Student ID 0922836
+* Coder: Andre Florentino Melo
 * Date: Feb. 12, 2020
 */
 
